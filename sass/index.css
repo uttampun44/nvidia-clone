@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&family=Roboto:wght@400;500;700;900&display=swap");
+:root {
+  --main-font-family: "Roboto", sans-serif;
+  --button-color: "#76b900" ;
+}
+
+h1, h2, h3 {
+  font-family: var(--main-font-family);
+}/*# sourceMappingURL=index.css.map */
